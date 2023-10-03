@@ -1,0 +1,149 @@
+ECLI: NL: RBNHO: 2023: 5549
+Share the pronunciation
+ECLI: NL: RBNHO: 2023: 5549
+Instance
+Court of Noord-Holland
+Date of judgment
+29-03-2023
+Date of publication
+16-06-2023
+Case
+10104185
+Jurisdiction
+Commitment law
+Special characteristics
+Ground shop
+Contents indication
+Is the balance on the and/or bank accounts on the date of the death of the testator in the estate of the testator, or is it entirely to the defendant?
+Locations
+Rechtspraak.nl
+Jerf News 2023/237
+Erfupdates.nl 2023-0265
+Share
+Enriched statement
+Share the pronunciation
+Pronunciation
+COURT
+NORTH HOLLAND
+Civil rights
+Judge
+Seat Haarlem
+Case number: 10104185 \ CV Expl 22-5581
+Judgment of March 29, 2023
+in the case of
+[plaintiff],
+In his capacity as liquidator of the Lord's estate
+[testator]
+,, "
+in [place 1],
+demanding party,
+hereinafter referred to as: the liquidator,
+authorized representative: R. Kingma,
+in return for
+[defendant]
+,, "
+in [place 2],
+defendant,
+hereinafter referred to as: [defendant],
+Controller: A. Hashem Jawaheri.
+1
+The procedure
+1.1.
+The course of the procedure is evident from:
+- the summons of 1 September 2022 with productions 1 to 10;
+- the conclusion of answer with one production;
+- the interlocutory judgment of the subdistrict court judge of December 21, 2022;
+- the deed submission productions me productions 11 to 13 of the liquidator;
+- the additional three productions placed by [defendant] in the proceedings;
+- The oral treatment of 28 February 2023, of which the clerk has been kept notes and where the liquidator has been submitted by the liquidator.
+1.2.
+Finally, a date for judgment has been determined.
+2
+The facts
+2.1.
+[defendant] is the father of [testator], who died on [date] in Beverwijk (hereinafter: testator).The testator did not have his estate by will.
+2.2.
+The testator and [defendant] had both been registered since around 2006 as a account of two and/or bank accounts at Rabobank, with the following bank account numbers (hereinafter referred to as: the bank accounts):
+-
+payment account [account number 1] (hereinafter: account [account number 1]), of which the balance on the date of the testator was € 795.21;
+-
+Savings account [account number 2] (hereinafter: account [account number 2]), the balance of which was € 20,0002.01 on the date of the testator.
+2.3.
+Insurer Centraal Beheer has made a benefit to the funeral director for the funeral of the testator.The funeral director has paid the part of that benefit that exceeded the costs of the funeral, at € 486.79, on 20 September 2021 to account [account number 1].
+2.4.
+On October 15, 2021, Rabobank changed the name of the bank accounts to (exclusively) [defendant].
+2.5.
+By decision of the Chamber of Family Affairs of this court of (also) October 15, 2021, at the request of Mrs. [mother] (hereinafter: the mother), the parenthood of the testator regarding the child [minor], born on [date of birth] (hereinafter: [minor]).
+The decision was registered on 4 February 2022 in the Registers of Civil Registry.
+2.6.
+By decision of 11 January 2022 of this court, at the request of the mother, the liquidator was appointed in the estate of the testator (hereinafter: the estate).
+2.7.
+On July 8, 2022, the liquidator had a third -party seizure of the third -party attachment charged to [defendant] under Rabobank.Rabobank stated on July 25, 2022 that the attachment was affected for an amount of € 40.73 on account [account number 1] and € 16,703.99 on account [account number 2], so that after settlement of the seizure -free amount € 14,963.43remains.
+2.8.
+By e-mail of 4 October 2022, lawyer mr. B. Wernik confirmed that he has assisted [defendant] in the past regarding personal injury and a final scheme, where a structural amount has been paid, but that the file has been destroyed.
+3
+The dispute
+3.1.
+The liquidator demands - in summary - that the subdistrict court judge [defendant] orders an amount of € 10,827.63 to pay the estate of the testator, plus the seizure costs of € 358.37 and by order [defendant] in the costs of theprocedure, plus the follow -up costs and the statutory interest.
+3.2.
+[defendant] defends.The statements of the parties are discussed below, if necessary.
+4
+The assessment
+4.1.
+The subdistrict court judge is the question whether the balance on the bank accounts on the date of the deceased's death, or half falls in the estate of the testator (as the liquidator argues), or belongs completely to [defendant] (like [defendant] argues).
+4.2.
+It is advised that it is now established between the parties that [minor] (the son of the testator and the grandson of [defendant]) is the sole heir of testator.The estate of the testator therefore does not come to [defendant], as he previously accepted.Is there a community?
+4.3.
+The subdistrict court judge understands the liquidator's argument in such a way that he states that the bank accounts have been a community between the testator and [defendant] (Article 3: 166 paragraph 1 of the Dutch Civil Code).The subdistrict court judge is considering this as follows.
+4.4.
+The mere fact that there was a "and/or account" only concerns the relationship between the bank and the account holders and says in the mutual relationship between the testator and [defendant] who is not yet entitled to the balance on a bank account.The question of whether the testator and [defendant] were jointly entitled to the balance to the bank account, as the liquidator argues, must be answered on the basis of whether an agreement has been concluded explicitly or tacitly between the parties.
+4.5.
+It follows from the statements of the parties that both the testator and [defendant] have fed the bank accounts for years, since 2006 until the death of the testator in 2021, and both have also used both regularly to make payments.The liquidator has stated that motivated and [defendant] did not dispute that.After all, [defendant] only argues that the bank accounts
+mainly
+are fed by [defendant] and not fed by the testator with
+notable
+amounts.On the further assessment of these statements by [defendant], the subdistrict court judge returns to the following.In any case, it follows sufficiently clearly that the testator and [defendant] had the (implicit) intention to create a limited community with regard to those bank accounts, so that the subdistrict court judge will go out.
+The argument of [defendant] that the testator has only been registered as an account holder in the event that [defendant] would die, has been contrary to these years of factual course of affairs and is therefore not followed.
+Unequal contributions?
+4.6.
+Pursuant to Article 3: 166 (2) and 3 of the Dutch Civil Code, the shares of the partners in a community are the same, unless otherwise arises from their legal relationship or the reasonableness and fairness that should exist between partners.
+4.7.
+[defendant] has argued that the bank accounts were mainly fed by him, which, according to [defendant], means that the liquidator cannot claim the balance, at least not half.
+It is on the road of [defendant] to set sufficient facts and circumstances for this.The subdistrict court judge is of the opinion that [defendant] did not do that sufficiently and explains it as follows.
+4.8.
+[defendant] has argued that:
+the funds on the bank accounts come from allowances from the tax authorities for [defendant], a survivor's pension from the deceased wife of [defendant], and a personal injury compensation that [defendant] has received;
+The payments of the testator to the bank accounts mainly concerned the reimbursement of (a) loan (s) loan.
+Ad A: Income of [defendant]
+4.9.
+If it is undisputed that the bank accounts were received from [defendant] on the basis of surcharges and a survivor's pension.In addition to that income, however, payments were also received from the testator in the bank accounts (which will be discussed in the following).[defendant] did not comment on the amount of the allowances and the survivor's pension.It can therefore not be assessed whether there is a disproportionality between the income of [defendant] and the payments of the testator on the bank accounts that justifies that the starting point is that both partners (testator and [defendant]) are entitled to an equal share.The mere fact that the bank accounts (apparently regularly) received income from [defendant] is in any case insufficient.
+4.10.
+With regard to the personal injury compensation, [defendant] explained at the hearing that it concerned an amount of approximately € 34,000, but he did not substantiate this amount.Only [defendant] has submitted an e-mail from his former lawyer, who states that he has assisted [defendant] and that a benefit was made, but that the file is no longer available.
+The witness certificate offered by [defendant] is not arrived.It is certain that the traffic accident that led to the personal injury compensation took place on 31 December 1997. From the statements of the parties, the subdistrict court judge understands that payments regularly received on the bank accounts and paid payments from these accounts.Even if evidence is provided of a personal injury compensation that was paid on the bank accounts shortly after 1997, it is therefore unlikely that this sum of money was still present at the bank accounts at the time of the Death of the testator in 2021 (24 years later).For that reason, the subdistrict court judge is of the opinion that the personal injury compensation must be disregarded.Ad B: Payments by the testator
+4.11.
+It is certain that the testator made various payments on the bank accounts.Based on the available bank account statements from 1 January 2015, this involves a total amount of at least € 20,050.[defendant] argued that the testator borrowed an amount of € 10,000 in 2014 from [defendant], because the testator at that time had broken his relationship with his ex-partner and he had to finance the repayment of the residual debt of their joint home.[Defendant] provided that loan to the testator around 2014 and this is therefore not visible on the available bank account statements, while the reimbursement of that money loan is visible on the bank account statements, according to the argument of [defendant].[Defendant] has offered evidence of these statements by hearing the ex-partner of testator (Mrs. Kirsten Hoogland).
+4.12.
+The subdistrict court judge is of the opinion that evidence of evidence is also not coming on this point.Even if [defendant] succeeds in the proof that the testator borrowed € 10,000 from [defendant] around 2014 and that the payments of the testator in the bank accounts up to an amount of € 10,000 should indeed be regarded as a repayment of a loan (loan (loan (And not if feeding the bank account), that does not detract from the determination that the testator has fed the bank accounts with a substantial amount.In that case, after all, it is still an amount of at least (20,050,-/- 10,000 =) € 10,050,- (which in relation to the final balance of € 20,797.22 cannot be regarded as a non-significantContribution of testator).
+That there is a disproportionateness between contributions from the testator and [defendant] to the bank accounts can therefore not be deduced from the evidence offered by [defendant].[defendant] has not explained that sufficiently.
+Conclusion
+4.13.
+The foregoing leads to the interim conclusion that there was a simple community between the testator and [defendant] in this regard and that [defendant] has insufficient facts and circumstances that could lead to a deviation from the starting point that both partners have an equal share in this.This means that on behalf of the estate, the liquidator can claim half of the balance on the bank accounts at the time of the deceased's death.
+4.14.
+[Defendant] has not defended the argument of the liquidator that, due to the name of the bank accounts in the name of exclusively [defendant] (on October 15, 2021), [defendant] now wrongly has those funds.[Defendant] will therefore be sentenced to pay half of the balance to the estate.
+4.15.
+The balance on the bank accounts at the time of death of the testator was € 20,797.22, half of which amounts to € 10,398.62.This amount must be increased by the payment of the funeral director (being the insurance benefit after deduction of the funeral costs), in terms of € 486.01.Because the set (and not changed) claim of the liquidator is limited to € 10,827.63, the latter amount will be allocated.
+4.16.
+At the hearing, the liquidator stated that after the deceased's death on the bank accounts an amount of € 2,116.20 was received from the UWV in the name of the testator.According to the liquidator, this is a death benefit from the testator.[defendant] has disputed that.
+Although the subdistrict court judge agrees with the liquidator that it is difficult to imagine that this amount does not belong to the estate, the liquidator has not made a claim against [defendant] for this amount, so that [defendant] cannot be ordered to pay there.The further assessment can therefore be omitted.
+4.17.
+In the fact that the procedure results from a family dispute, the subdistrict court sees reason to compensate for the costs of the proceedings, in the sense that each party bears its own costs.This also applies to the advanced attachment costs.
+5
+The decision
+The Subdistrict Court
+5.1.
+orders [defendant] to pay an amount of € 10,827.63 to the estate of the testator;
+5.2.
+The costs of the proceedings thus compensates that each party bears its own costs,
+5.3.
+rejects it more or otherwise advanced.
+This verdict was given by J.J.Dijk and pronounced in public on March 29, 2023.1538

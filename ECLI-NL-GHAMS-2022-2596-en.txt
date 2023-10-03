@@ -1,0 +1,113 @@
+ECLI: NL: GHAMS: 2022: 2596
+Share the pronunciation
+ECLI: NL: GHAMS: 2022: 2596
+Instance
+Court of Appeal Amsterdam
+Date of judgment
+06-09-2022
+Date of publication
+07-09-2022
+Case
+200.305.058/01
+Jurisdiction
+Person-and familyright
+Special characteristics
+Appeal
+,, "
+Order
+Contents indication
+The applicants cannot be regarded as stakeholders within the meaning of Article 798, paragraph 1, first sentence, RV.According to Article 1: 207 paragraph 1 of the Dutch Civil Code, the parenthood of a person, even if he died, can be determined by the court on the ground that he is the causative agent of the child.Subject to the exception not the exception of Article 1: 207 paragraph 4 of the Dutch Civil Code, the request for this can only be made by the mother, unless the child has reached the age of sixteen, and by the child himself.It is consistent with this limitation of the circle of persons who can be deemed to be directly involved in the adoption of parenting in Article 1: 207 of the Dutch Civil Code, to be the persons falling outside this circle in a case based on Article 1: 207 of the Dutch Civil Code asThe starting point cannot be regarded as stakeholders within the meaning of Article 798, paragraph 1 of the Code of Civil Procedure.That is only different if the person to whom the request relates (the designated parent) has already died.In that case, under Appendix 3 of the Procedural Regulations, other (Book 1) cases, such as that applied at the time of the submission of the request to the court, also regarded as the interested party of the descendants of the designated parent.However, the applicants are not the descendants of the deceased person, but his brother or father respectively.The applicants argue that their "Family Life" protected by Article 8 of the ECHR with the son of the deceased if it turned out that the deceased is not his father.The applicants can be admitted that in certain cases the Family Life Protected by Article 8 of the ECHR may also be the rights that are directly affected by a case.This requires at least that there was a close personal relationship between the applicants and the son of the deceased that qualifies as Family Life within the meaning of Article 8 of the ECHR.Now that the applicants have insufficiently substantiated that there is such a close personal relationship and no further evidence has been offered, their appeal to Article 8 of the ECHR fails.The Court of Appeal does not follow the applicants in their statement that they must be regarded as stakeholders in their capacity as heirs of the deceased, since this interest cannot be regarded as an interest directly affected by the subject of the case, but only as a derivative interest.The conclusion is that no rights or obligations of the applicants are directly affected by the adoption of the parenting of the deceased concerning his son.The applicants cannot be received in the appeal lodged by them.Official conviction of proceedings appeal.
+Locations
+Rechtspraak.nl
+Pfr-updates.nl 2022-0202
+Erfupdates.nl 2022-0260
+Jerf 2022/173
+JPF 2022/118
+RFR 2023/6
+Jerf News 2022/285
+Share
+Enriched statement
+Share the pronunciation
+Pronunciation
+Court of Appeal Amsterdam
+Department of Civil Law and Tax Law
+Team III (family and juvenile law)
+Case number: 200,305.058/01
+Case number Court: C/15/319647/FA RK 21-4104
+Decision of the multiple chamber of 6 September 2022 in the case of
+1
+[applicant sub 1],
+living in [place A], municipality [municipality],
+also to mention: [applicant sub 1],
+2
+[applicant sub 2],
+living in [place B],
+also to mention: [applicant sub 2],
+applicants on appeal,
+hereinafter also mentioned: the applicants,
+lawyer: A. Hashem Jawaheri in Amsterdam,
+and
+[the mother] ,
+living in [place B],
+defendant on appeal,
+further: the mother,
+Lawyer: D. Simo te Culemborg.
+As an interested party, it has been considered:
+- the minor [minor] (further mentioned: [minor]).
+1
+The course of the proceedings at first instance
+For the course of the proceedings at first instance, the Court of Appeal refers to the decision of the Noord-Holland court, location Haarlem (hereinafter: the court), of 15 October 2021, pronounced under the aforementioned case number.
+2
+The appeals on appeal
+2.1
+The applicants appealed on 11 January 2022 of the decision of 15 October 2021.
+2.2
+The following documents were also received at the Court:
+- a journal report from the mother of 2 March 2022 with appendices;
+- A journal message from the side of the applicants of 8 March 2022 with appendices.
+2.3
+The oral treatment took place on March 9, 2022.In addition, the Court of Appeal raised whether the applicants are admissible in their appeal.Were then published:
+- [applicant sub 1], assisted by his lawyer;
+- the mother, assisted by her lawyer.
+3
+The facts
+3.1
+The mother and [X] (hereinafter: [X]) had an affective relationship with each other.3.2
+[minor], born [in] 2018, is a son of the mother.A recognition of [minor] did not take place.
+3.3
+[X] died [in] 2021.The applicants on appeal are his brother and his father respectively.
+4
+The size of the dispute
+4.1
+The contested decision, pursuant to Article 1: 207 (1) (a) of the Civil Code (BW), the parenthood of [minor] was adopted at the request of the mother under Article 1: 207 paragraph 1 (a).
+4.2
+Requests applicants, with the annulment of the contested decision, to reject the request for determining parenting, at least to determine that the family bond is determined by DNA investigation.
+5
+The reasons for the decision
+5.1
+As the Court of Appeal discussed with the parties at the hearing on appeal, the Court of Appeal sees its ex officio qualifying for the question of whether the applicants can be regarded as stakeholders and thus whether they are admissible in their appeal against the contested decision.
+5.2
+The applicants argue that they are stakeholders within the meaning of Article 798 (1) of the first sentence, of the Code of Civil Procedure (RV), because the contested decision directly relates to their rights or obligations.These rights or obligations also include the right to Family Life protected by Article 8 of the European Convention on Human Rights and Fundamental Freedoms (ECHR).The applicants fear that their right to "Family Life" with [minor] will be detracted if it appears that [X] is not the father of [minor].In addition, in their capacity as heir of [X], the applicants are directly affected by the contested decision in their (financial) interests.It is important for the applicants that it is determined by means of the (offered by them) DNA investigation that [X] is actually the father of [minor].
+5.3
+The mother takes the position that the applicants are not stakeholders in these proceedings and that they should be declared inadmissible in their requests, since it has not been stated or proven that the rights or obligations on which the applicants invoke are directly affected by the contested decision.Because the applicants have not demonstrated that there is structural contact between [minor] and them, which is contradicted by the mother, it cannot be assumed that there is a family life as referred to in Article 8 of the ECHR.In addition, the applicants are not in their financial interests.The applicants have hunted the mother at costs by losing an unemployment rate against the contested decision.
+5.4
+The court considers as follows.It follows from Article 806, paragraph 1, of the Code of Civil Procedure that the applicant and stakeholders can only be lodged in a case like this appeal.Which persons in a case such as these must be regarded as stakeholders must be determined by the court on the basis of the criterion from Article 798, paragraph 1, first sentence, RV.Article 798 (1) of the first sentence, of the Code of Civil Procedure provides that the person concerned is understood to mean the person to whose rights or obligations the case relates directly.On the one hand, this concerns the subject of the case submitted to the court and - on the other - the rights or obligations to which the person concerned invokes.Only if the subject of the case can lead to the rights or obligations to which the person concerned relies directly by the court decision is that person concerned within the meaning of the aforementioned provision.
+5.5
+In the opinion of the Court of Appeal, the applicants cannot be regarded as stakeholders within the meaning of Article 798, paragraph 1, first sentence, Rv.The following is reasonable for that.
+Pursuant to Article 1: 207 paragraph 1 of the Dutch Civil Code, the parenthood of a person, even if he died, can, on the gAround that he is the causative agent of the child being determined by the court.Subject to the exception not the exception of Article 1: 207 paragraph 4 of the Dutch Civil Code, the request for this can only be made by the mother, unless the child has reached the age of sixteen, and by the child himself.It is consistent with this limitation of the circle of persons who can be deemed to be directly involved in the adoption of parenting in Article 1: 207 of the Dutch Civil Code, to be the persons falling outside this circle in a case based on Article 1: 207 of the Dutch Civil Code asThe starting point cannot be regarded as stakeholders within the meaning of Article 798, paragraph 1 of the Code of Civil Procedure (cf. HR 17 May 2013, ECLI: NL: HR: 2013: BZ3641).That is only different if the person to whom the request relates (the designated parent) has already died.In that case, under Appendix 3 of the Procedural Regulations, other (Book 1) cases, such as that applied at the time of the submission of the request to the court, also regarded as the interested party of the descendants of the designated parent.However, the applicants are not the descendants of [X], but his brother or father respectively.
+5.6
+However, the applicants argued at the hearing on appeal that their "family life" protected by Article 8 of the ECHR with [minor] as was allowed to show that [X] is not the father of [minor].It can be admitted to the applicants that in certain cases the Family Life Protected Family Life may also be the rights that are directly affected by a case (cf. HR 22 April 2022, ECLI: NL: HR: 2022: 622).This requires at least that there was a close personal relationship between the applicants and [minor] that qualifies as Family Life within the meaning of Article 8 of the ECHR.The obligation to adjust and the burden of proof of this rests on the applicants.The mother disputes that the applicants have such a bond with [minor].In the light of this, the applicants have insufficiently substantiated that there is such a close personal relationship.Nor have they offered further evidence of this.As a result, their appeal to Article 8 of the ECHR.
+Insofar as the applicants argue that they must be regarded as stakeholders in their capacity as heirs of [X], the Court of Appeal goes beyond, now that this interest cannot be regarded as an interest affected by the subject of the case, but only as aderived interest.
+5.7
+The conclusion is that no rights or obligations of the applicants are directly affected by the determination of the parenting of [X] concerning [minor].On the basis of that, the Court of Appeal concludes that the applicants cannot be received in the appeal they have lodged, so that it is not to be given to a substantive assessment of their request.
+5.8
+The Court of Appeal is of the opinion that the applicants have brightly filed the present proceedings.From a letter from notary mr. K.S.M.Ghisai to [the applicant sub 2] of 28 October 2021 shows that the notary understood in response to the conversation of [X] on 7 September 2021 that the latter is the biological father of [minor].In that letter, the notary concluded that the legal parenthood of [X] adopted by the contested decision means that the applicants are no longer heirs (retroactively to the birth of [minor]).Subsequently, the applicants appealed against the contested decision on 11 January 2022.On the same date, a decision was made in proceedings to appoint a liquidator in the estate of [X].This decision shows that [the applicant sub 1] stated in those proceedings at the hearing of 14 December 2021 that [the applicant sub 2] and he, in view of the contested decision, no longer assumed that they are heirs, but that (indeed indeed) [minor] is sole heir.The claims of the applicants at the appeal that that statement is only based on the assumption that it is very likely that [X] is the father of [minor], but that this is not yet certain, is not in the light of the previouscredible.In addition, the applicants are at least more unclear about what they actually want to achieve with the present apple procedure.On the one hand, they request the annulment of the contested decision and rejection of the introductory request of the mother, on the other hand, their propositions mean that allocation of their request would jeopardize their set Family Life with [minor].If that vision were correct, it requires that the contested decision for reinforcement.In the foregoing, the Court sees reason to ex officio order the applicants to pay the costs of the appeal proceedings that have fallen on the part of the mother.The Court estimates the costs in accordance with the liquidation rate at € 1,114 (1 point, rate II) for salary lawyer.
+5.9
+The foregoing leads to the following decision.
+6
+The decision
+The Council:
+declares the applicants inadmissible in their appeal;
+orders the applicants in the costs of the appeal procedure, estimated to date on the part of the mother at € 1,114 in the lawyer salary;
+Explains this proceedings order to be enforceable in stock.
+This decision was given by mr. A.V.T.de Bie, J.M.C.Louwinger-Rijk and mr. M.E.Burger, in the presence of L. Meulman as a clerk and was pronounced in public on 6 September 2022 by the chairman.

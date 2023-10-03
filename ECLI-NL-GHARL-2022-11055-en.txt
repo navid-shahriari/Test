@@ -1,0 +1,349 @@
+ECLI: NL: Gharl: 2022: 11055
+Share the pronunciation
+ECLI: NL: Gharl: 2022: 11055
+Instance
+Arnhem-Leeuwarden Court of Appeal
+Date of judgment
+20-12-2022
+Date of publication
+27-12-2022
+Case
+200.305.875/01
+Jurisdiction
+Civil rights
+Special characteristics
+Appeal
+Contents indication
+Rent agreement of the property to institution for the occupation by clients of the institution with an indication O.G.V.The Wlz.Dispute about defects (leakage and fungal formation) and rent reduction due to those defects.According to the Court, it concerns the rent of business space.In this case, the landlord cannot invoke an exoneration clause, because the Landlord knew or had to know the defects at the start of the rent (7: 209 of the Dutch Civil Code).
+The rental price is reduced.The claims of the lessor for compensation for delivery damage and contractual fines are not assignable.
+Locations
+Rechtspraak.nl
+SDU News Rent Law 2023/2
+Share
+Enriched statement
+Share the pronunciation
+Pronunciation
+Arnhem-Leeuwarden Court of Appeal
+Location Leeuwarden
+Department of Civil Law, Trade
+Case number Court of Appeal 200.305.875/01
+(Case number Court of Overijssel 9010015)
+judgment of December 20, 2022
+in the case of
+1
+[appellant1],
+He lives in [hometown1],
+after this:
+[appellant1]
+,, "
+2. [appellant2]
+,, "
+He lives in [hometown2],
+after this:
+[appellant2]
+,, "
+appellants,
+In the court: claimants in the convention, defendants in the counterclaim,
+hereinafter referred to together:
+[appellants]
+,, "
+Lawyer: L.M.Goeree, who holds an office in Zwolle,
+in return for
+1
+Masterpiece B.V.
+located and office in Zwolle,
+hereafter: masterpiece,
+2. [respondent2],
+He lives in [hometown2],
+after this:
+[respondent2]
+,, "
+respondents,
+At the court: defendants in the convention, claimants in counterclaim,
+hereinafter referred to together:
+Masterpiece et al.
+,, "
+Lawyer: A. Hashem Jawaheri, who holds the office in Amsterdam.
+1
+The further procedure at the Court
+1.1
+The Court of Appeal takes over the content of the interim judgment of 5 July 2022 here.
+1.2
+Based on this interim judgment, oral treatment took place on 12 October 2022.The official report drawn up of this is in a copy of the documents.
+1.3
+The Court then set a date for this judgment.
+2.
+What is the point in this case?
+2.1
+This case is about whether [appellants] still have a claim for masterpiece and her [function] [respondent2] due to overdue rent, fines and delivery defects due.
+2.2
+Masterpiece et al. At first did not defend the claims, after which the subdistrict court judge granted the claims against them in a default judgment.After [appellants] had lodged against the default judgment, the subdistrict court judge of the Overijssel District Court (hereinafter: the Subdistrict Court) annulled the default judgment and rejected the claims of [appellants].In short, the subdistrict court judge found that masterpiece is entitled to reducing the rent due to defects in the building, so that there was no rent arrears, and that [appellants] did not have proven that delivery defects were there.The Court of Appeal comes to a partially different opinion, because the Court of Appeal is also based on a rental reduction, but over a shorter period and with a different amount than the subdistrict court judge.The Court of Appeal will motivate this judgment below, by first mentioning the relevant facts and by then discussing the points of dispute between the parties.
+3. The relevant facts
+1
+3.1
+[appellants] were the owner of a building at the [address1] in [hometown2] (hereinafter: the building).There are eight rooms in the three -storey building, which can be inhabited separately.
+3.2
+Masterpiece guides people with an indication based on the Long -Term Care Act (Wlz).[respondent2] is [function] of masterpiece.
+3.3
+Meesterwerk rents living space, which she makes available to her clients.She concludes a housing agreement and a care agreement with these clients.Both agreements are linked to each other, in the sense that when the care agreement ends, the housing agreement also ends.
+3.4
+After [appellants] had first rented separate rooms in the building to masterpiece on the basis of a lease agreement with a rental price of a total of € 4,500 per month and these lease agreements were canceled, the parties concluded a new lease agreement on 15 February 2019.The agreements made are laid down in a written contract on that date for a "lease office space and other business space within the meaning of Article 7: 230a of the Dutch Civil Code" (hereinafter: the lease).
+3.5
+In the lease - in summary - the following is stated, among other things.
+Earlier, from May 2016 up to and including January 2019, a lease agreement
+Gelden with regard to the building.The parties wish to handle a completely new lease contract
+go according to model business space.The building will only be intended to beused as a care institution for housing up to 7 people with a Wlz indication
+And one supervisor of masterpiece.The lease will take effect on 1 February 2019 for a period of 2 years and runs until January 31, 2021. The rental price is € 6,000.00 per month, to be paid in advance.Before February 20, 2019, Meesterwerk must pay a deposit of € 6,000.00.No interest is reimbursed about the deposit.To prevent nuisance, Meesterwerk will place a supervisor in the building to supervise and order.Parties have drawn up a delivery list.Masterpiece will remedy the points stated on the list.The state of the rented property is apparent from the delivery list.[respondent2] is in private joint and severally co -debtor to [appellants] for all obligations of masterpiece from the lease.
+3.6
+On the lease, the "General provisions of the office space and other business space lease in the meaning of Article 7: 230a of the Dutch Civil Code" (hereinafter: the General Terms and Conditions) are declared applicable, in which the following is stated, among other things:
+"
+8.1 When the rented property is used, the tenant will cause no nuisance or nuisance, nor cause damage in, on, on or under the rented property (...).
+9.1
+The tenant will immediately inform the Landlord of a defect and of the (imminent) damage resulting from that defect or from another cause or circumstance.The tenant gives the landlord a - in view of the nature of the defect - reasonable period, to start the remediation of a defect coming for the landlord.The tenant will confirm this notification, including the reasonable period of time as soon as possible in writing. (…)
+10.3
+Landlord is not liable for damage as a result of a defect and the tenant cannot claim rent reduction and settlement in the event of a defect, subject to the authority to set off as referred to in Article 7: 206 paragraph 3 of the Dutch Civil Code. (…)
+10.4 The provisions of Article 10.3 do not apply in the following circumstances:
+(...)
+- if the Landlord knew a defect when entering into the lease and has not made any further agreements with the tenant in this regard;
+(...)
+- if the lessor has not observed the reasonable period set by the tenant in writing as referred to in Article 9.1 to start with the remedy of a defect coming from the lessor.
+23.1
+The payment of the rental price (...) will be made at the latest on the due dates (...) without suspension, deduction or settlement with a claim (...) (...).
+23.2
+Each time if an amount owed by the lease by the lease is not promptly paid on the due date, the tenant (...) forfeits a immediately due and payable fine of 1% of the due for per calendar month, by operation of law, per calendar month of that amount, by operation of law,Where every month started as a full month is considered a minimum of € 300 per month (...).
+29. If the tenant, after being declared quite in default by the lessor, will not comply with the regulations included in the articles (...), forfeits the tenant to the landlord, insofar as no specific fine has been agreed, a directdue and payable fine of at least € 250 per calendar day that the tenant is in default (...).
+"
+3.7
+In an e-mail of 22 June 2020, masterpiece has written to [appellants] that she will stop paying the rent as long as [appellants] do not remedy the defects in the building and that she has sought in vain for some time about these defects with[appellants]
+3.8
+In a letter of 23 July 2020 to [appellants], the lawyer of Meesterwerk wrote that the building shows defects, making it unlivable.Among other things, there is a long -term leak and fungal formation, whether or not due to leakage.In the letter, [appellants] are requested to be repaired immediately to repair the defects, failing which a procedure will be started.
+3.9
+In a letter of 2 September 2020 from their lawyer [appellants]
+to the lawyer of masterpiece and [respondent2] - summarized - the following
+written.Masterpiece is summoned the overdue rent from June 2020 in
+satisfying and the contractual fines forfeited in that context.The cause of the
+Defects lies with the residents of the building.Those defects are the result of them
+Destruction and misconduct in which the residents also cause nuisance in the neighborhood.
+All this is contrary to the lease agreement and the general provisions.The
+must therefore be evacuated on 8 September 2020, in the absence of which a summary proceedings will be brought.In this letter, the lease is canceled by
+February 1, 2021.
+3.10[appellants] have the certainty of a claim on masterpiece and [respondent2] for overdue rent payment, compensation for damage caused by destruction to the property and contractual fines, conservatory (third parties).€ 39,260.00 Including interest and
+cost.
+3.11
+In the context of summary proceedings that has been conducted between the parties, Meesterwerk, in accordance with agreements made for this purpose, has paid three months rent at the latest on 30 October 2020.Parties did not come together further.
+3.12
+In December 2020, masterpiece handed in the keys to the building at
+[appellants] In the spring of 2021, [appellants] sold the building and transferred it to a third party.
+4
+4. The discussion of the dispute
+The scope of the dispute at the Court
+4.1 [Appellants] have claimed compensation for the lease of the lease, compensation due to delivery defects, payment of contractual fines and reimbursement of seizure costs and extrajudicial costs and extrajudicial costs in the subdistrict court judge.
+Masterpiece et al. Have defended these progress.They have also established counterclaims ('counter -claim'), namely a reduction in the rent, repayment of the paid deposit and judgments ('statements for right') that they have left the building in a similar state as in which they have received it and that[appellants] are liable for the damage they have suffered.In addition, they have claimed reimbursement of extrajudicial costs.
+4.2
+The subdistrict court judge rejected the claims of [appellants].With regard to the claims of Meesterwerk et al., It has reduced the rent, ordered [appellants] to pay the deposit and to pay € 400 in extrajudicial costs.She has also declared that masterpiece has left the building in a similar state as in which it has received it.The claim of Meesterwerk et al. To declare that [appellants] are liable for the damage suffered by Meesterwerk rejected the subdistrict court judge.
+4.3
+The appeal of [appellants] does not focus against the rejection of the claim for termination of the lease.That decision is therefore no longer under discussion.Meesterwerk et al. Have not appealed against the rejection of their claim to declare that [appellants] are liable for the damage suffered by Meesterwerk.In these proceedings, that decision is also not up for discussion at the Court of Appeal.
+The lease agreement between the parties is a lease agreement of (not middle-class) business space
+4.4 The building is a home and is also inhabited by the clients of masterpiece.The question therefore arises whether the provisions of the rent of living space apply to the lease that the parties have concluded.
+4.5
+For that qualification request, it is important what the parties had in mind at the start of the lease, also taken into account, the design of the rented property
+2
+.When the parties closed the lease on 15 February 2019, it was intended that the building would be used for use by masterpiece in the context of its business operations, namely for guiding people with a Wlz indication, which in the context of thatSupervision also in the building.The building was already used for that time by masterpiece.This is explicitly stated in the lease.
+It follows from the facts set above that the agreements that masterpiece with its clients concluded concerning the use of a room in the building had a mixed character.There was a residential element and a guidance element, in which the guidance element was leading: masterpiece only made a room available to its clients, not to third parties, so in the context of the guidance of these clients and the use of the room by the clientsended at the moment their guidance ended.Moreover, masterpiece had to keep a room available in the building for a companion;She was only allowed to use seven of the eight rooms to her clients.
+Under these circumstances, in which the parties have explicitly intended the building for the business operations of masterpiece, which includes the housing of its clients, and the housing element in the agreements between masterpiece and its clients is not the determining element, the regime of Article 7 is: 230a BW apply to the lease.The parties also visited that.In this context, the Court of Appeal notes that, in view of the nature of the similarities between masterpiece and its clients, no friction can arise between the "main lease agreement" and the "sublease agreements"
+3
+.The basis of and the defense against the rental price reduction
+4.6 The subdistrict court judge has decided that the building contained defects that cannot be regarded as small repairs and also not as defects caused by the clients of masterpiece.According to the subdistrict court judge, it concerned defects that have been known to [appellants] since the start of the lease.The defects justify a rent reduction of € 1,500 per month, which means that the rent reaches € 4,500 per month.
+4.7
+[appellants] do not agree with this judgment.First of all, they state that there is no defects.If and insofar as there are defects, it concerns defects that they do not have to recover, because it concerns minor repairs or defects for the origin for which masterpiece is liable.And in the event that there would be defects that they have to repair, [appellants] were on Article 10.3 of the General Terms and Conditions.Based on this provision, masterpiece is not entitled to rent reduction in the event of a defect.Finally, it believes [appellants] that the subdistrict court judge has significantly reduced the rental price and over a long period.According to [appellants], no rent reduction can anyway over the period up to 22 June 2020, when masterpiece complained for the first time about the fungal formation (cf. 3.7).
+4.8
+The Court of Appeal will first check whether there are defects and then - if necessary - discuss the other objections of [appellants] against the judgment of the subdistrict court judge.
+There are defects consisting of fungal formation and leakage
+4.9 [appellants] object to the fact that the subdistrict court judge has taken defects that, according to them, were not based on their defense by Meesterwerk et al.Whatever the case, the Court of Appeal will only base its judgment on the defects that are based on their defense (and to their claim for repayment of the deposit) in the procedure so far, so that [appellants] nonehave an interest in discussing this objection
+4
+.
+4.10
+In her judgment, the subdistrict court judge stated a number of defects that masterpiece did not make a point during the lease.It concerns the safety of escape routes, decisive brickwork, exposed concrete reinforcement and frames that do not comply with the Building Decree.Masterpiece et al. Have not made it plausible that these shortcomings have had negative consequences for the rent enjoyment, so that the court will not take into account
+5
+.Masterpiece et al. Expect the loss of pleasure to the leakage and fungal formation that they think was the case.They did this both outside the right (cf. the letter from their lawyer cited in 3.8) and in the proceedings at the subdistrict court judge.The Court will therefore limit itself to these stated defects (and their causes).
+4.11
+Pursuant to Article 7: 204 (2) of the Dutch Civil Code, a defect is a state or property of the rented property that is not attributable to the tenant, so that the case cannot provide the leased property that a tenant is entering into the agreement when entering into the agreementmay expect a well -maintained matter of the species as to which the agreement relates.In this case it concerns the rent of a building that is (also) intended for providing living space (namely to the clients guided by the tenant).The tenant of such a building may assume that the building can actually live in the building.That it concerns an old building - the building was built in 1905 - does not change that, but does not mean that the tenant cannot expect the building to offer the same comfort as a building that, for example, was built in 2005 and notThe ventilation options and other facilities have a much newer building.On the other hand, it also applies to a building from 2005 that a tenant does not have to expect that leakage and fungal formation occur when the building is sufficiently ventilated and heated and not damaged by the tenant.In this context, it is important that innovations had been installed in the building, for example central heating, sanitary facilities and new frames.[appellants] therefore rented a building from 1905, but no building with the level of facilities of a building from 1905.
+4.12
+The defect concept of Article 7: 204 paragraph 2 of the Dutch Civil Code is the rent for non-residential room
+6
+of regulatory law.This means that when entering into such a lease agreement thereof, the parties can deviate, for example by determining that defects known at the start of the rent do not count as defects, or that the tenant (and not the lessor) will repair these defects.Article 7: 209 of the Dutch Civil Code does not stand in the way.The provision relates to the release for the consequences of a defect, not the question of whether there is a defect and what the parties agree on.4.13
+When entering into the lease, the parties have drawn up a delivery list that is attached to the lease.This list lists, among other things, for the ground floor apartment: "
+Large cleaning & fungi remove bathrooms "
+And for the upstairs apartment: "
+Remove large cleaning & fungi "
+.The removal had to be done by masterpiece, and not by [appellants].The Court of Appeal follows [appellants] in the argument that the parties with this agreement have not regarded the fungal formation present at the start of the lease, insofar as stated in the delivery list, or in any case agreed that the removal of this fungusIf a (therefore at the expense of masterpiece) has a small repair within the meaning of Article 7: 217 of the Dutch Civil Code.This means that, insofar as the fungal formation that Meesterwerk et al. Are the fungal formation that is already stated in the delivery list, the complaint of masterpiece et al.
+4.14
+Meesterwerk et al. State that the fungus referred to in the delivery list has been removed by masterpiece, but that fungus was created afterwards.The fact that masterpiece has removed the fungus stated in the delivery list have not contradicted [appellants], so that the court goes out.In view of this, if it is established that there is again fungal formation in the building, it cannot be assumed that this fungal formation will be borne by masterpiece between the parties between the parties
+7
+.
+4.15
+Masterpiece et al. Have argued that there is fungal formation in the building.They have mainly associated the fungal formation with the leak, by indicating that the fungal formation was caused by leakage (whether or not in combination with defective ventilation).In the reports on which they rely, the fungal formation is located in more detail:
+- A report from Bouwgenoot of 7 July 2020 reports fungal formation in the ceiling of a room on the first floor and a connection is made between this fungal formation and leakage from the upper bathroom on the second floor.Incidentally, it is stated in the same report that the jointing of the floor tiles of the bathrooms on the second and third floor is porous, is very poorly executed and has disappeared locally.The kit joints between the connection between the floor and wall tiles are also locally detached, open and not completely waterproof.These defects can cause the leakage present according to the report in several places.
+- A report from Novum Network of 22 September 2020 reports defects in the implementation of the bathrooms.According to the report, the slope of the shower runs to the wall, on the side of the bedrooms, resounding moisture has been found, which leads to wood rot in the divorce structure and the breaking moisture suggests that no kimband has been placed.According to the Houtrot and fungal formation report, the neighboring residential areas occur.A bathroom shows crack in wall and tiling, possibly due to movement or expansion of the wall.The tile work has been covered, so there is no waterproof layer to the adjacent apartment.
+- A report from LM Companies on December 11, 2020 states that damp spots are visible under each bathroom.The report also reports: "
+In every room there is a bathroom we went through the building and found the same image in every bathroom.The kit work in the shower Especially in the floor is no longer water. Also the shower pits are equipped with a set -up piece which is loose in the tile work of the floor tiles also miss joints between the floor tiles of the shower floor.
+All shower floors show the same image and must be refurbished new jointing in the floor tiles and the kit work must be replaced by the bathroom floor and wall fungal spots behind the kit work
+There are also a bathroom where there are cracks in the wall tiles also here the water enters
+. "
+4.16In the opinion of the Court of Appeal, these reports have made it sufficiently plausible that there is (new ones, so not in the delivery list already mentioned) fungal formation in the bathrooms, on the partitions between the bathrooms and the adjacent (sleeping) rooms and onThe ceiling of the back room on the first floor.[appellants] have not contradicted these reports.They have argued that they cannot, because they should have carried out their own expert investigation after they had knowledge names of the reports and that this was no longer possible because they had now sold the building.The Court does not follow them in this argument.As they themselves have indicated, [appellants] of the Bouwgenoot report took note of October 28, 2020.They have been the owner of the building for months after that date.Even when they have knowledge names of the LM companies report, that with the resistance day for the
+January 26, 2021 was added, [appellants] were still the owner of the building.The fact that they did not use the opportunity to investigate the presence of defects in the building before they sold the building and delivered them to their risk
+8
+.The Court of Appeal will therefore start from what is stated in the aforementioned reports about the fungal formation.
+4.17 Masterpiece et al. Also argued that there was leaks in the building.That statement is supported by the reports discussed above:
+- The Bouwmate report of 7 July 2020 states that the ceiling of the back room in the first floor shows large wet spots and traces of long -term leakage.In addition, according to that report, there is leakage in several places.
+- The Novum Network report of 22 September 2020 does not report current leaks at that time.It follows from the report that the architectural state of the building is such that leaks can easily occur.
+- The same applies to the LM Companies report of 11 December 2020: there are moisture spots visible in the building that indicate leaks in the past and those leaks are explained by the structural state of the bathrooms in the building in particular.
+Moreover, a report from the company Triacon engaged by [appellants] of 24 September 2020 is also shown that there has been (substantial) leakage.Triacon reports cracks in the wall tile work of a bathroom on the second floor as a result of "probably operation of the substrate" and of damage to the tiling of a bathroom due to "mechanical damage".On the first floor, Triacon has set traces of water damage in the ceiling of a studio and traces of severe water damage in the ceiling of the hall (under the installation site of the washing machine).Parts of the laminate floor are loose - Triacon does not write where it is - "and show traces of long -term moisture load".
+Finally, it follows from the WhatsApp conversations between an employee of Meesterwerk and [appellant2] from February 2020 that masterpiece complains about leaks.According to that employee, "all showers" leak.
+On the basis of these reports, the Court of Appeal assumes that there were leaks in various parts of the building.
+4.18
+[appellants] are in itself right when they state that the mere fact that there is fungal formation in the building does not mean that there is also a defect.The starting point is that a tenant can expect that the home has a healthy indoor climate in the event of correct use, without mold.This also applies to old (er) homes.But fungus is only a defect if it is not for the account of the tenant (cannot be attributed to the tenant within the meaning of Article 7: 204 paragraph 2 of the Dutch Civil Code).It is up to the landlord to state, and to prove if necessary, that the fungal formation (to a predominant extent) can be attributed to the tenant, for example because the tenant does not or do not ventilate sufficiently, the property insufficiently heats or the occurrence of too much moisturecaused in the home (for example by showering, cooking or hanging a lot).In that context, there is also a role whether there are structural causes for fungal formation.They will be borne by the landlord again.
+4.19 In the opinion of the Court of Appeal, [appellants] insufficiently substantiated that the fungal formation can be attributed to masterpiece.(For the sake of clarity: it is about the fungal formation that has arisen after the fungus mentioned in the recansion report was removed by masterpiece).In this opinion, the Court of Appeal takes into account that the aforementioned reports make a connection between the fungal formation and the architectural situation of the building.For the leaks, the starting point is that they cannot be attributed to masterpiece.[appellants] have insufficiently substantiated that in this case an exception must be made to this principle.
+4.20 The conclusion is that both the fungal formation and the leaks are defects
+9
+.
+Not all defects claim a rental price reduction
+4.21 The fact that there are defects does not necessarily mean that [appellants] were also obliged to remedy it, nor that masterpiece is by definition entitled to rent reduction.Pursuant to Article 7: 207, paragraph 2 of the Dutch Civil Code, the tenant is not entitled to rent reduction for defects that he has to remedy (because it concerns so -called small repairs) or for the occurrence of which he is liable towards the lessor.According to [appellants], this situation occurs with regard to both defects.
+4.22
+With regard to the fungal formation, argue that the fungal formation is easy to remove and that it was also on the road of [appellant1] to remove the fungus.The Court of Appeal does not follow [appellant1] insofar as it concerns the fungal formation that has arisen after masterpiece et al. Had removed the fungus stated on the recording list.When the fungal formation, such as here, is structural, it is not on the way of the tenant to remove the fungus (in the context of Article 7: 217 of the Dutch Civil Code), but it is in principle up to the lessor for the causeto remove the fungal formation.That is only different if the tenant is liable for the creation of the fungus.
+4.23
+According to [appellants], the latter is the case, also with regard to the leak.[appellants] point out that serious leakage was created in the bathroom at the rear of the second floor.As a result, water damage has occurred in the underlying room, at the rear on the first floor.The leakage is the result of the fact that masterpiece had not correctly restored a damage to the bathroom of the back room on the second floor, which has flowed down, so that water has flowed down.That, to the Court of Appeal, explains the statements of [appellants], the damage in the back room on the first floor.Masterpiece et al. Have insufficiently reflected this argument from [appellants].They pointed out that the investigations cited above show that all bathrooms show structural defects.But the mere fact that the joint and kitwork of this bathroom, just like that of the other bathrooms is also bad, does not yet explain that much more serious leakage (at least leakage with more serious consequences) has been created in this bathroom than in the other bathrooms.The leakage of this bathroom, and the consequences thereof - such as water damage and mold in (the ceiling of) the underlying back room of the first floor - therefore, do not justify a reduction in rent.
+4.24
+[appellants] also point out that leaks were also created because a siphon was no longer present at a kitchen under the soda (there was a bucket under the sink) and that the siphon was no longer connected to the siphon with another kitchen, so thatThe water behind the kitchen cupboards disappeared (the court understands: the water that ended up in the sink overlap).Furthermore, the shower has been in a bathroom for days, resulting in flooding, "because the resident was removed by the police in the shower," said [appellants]
+Masterpiece et al. Have not contradicted these statements (with reasons), so that the Court goes out.If leaks and fungal formation have arisen as a result, those defects do not claim rent reduction.But that does not affect the fact that [appellants] have not sufficiently contradicted that leaks and fungal formation have also been created by the structural defects that appear from the aforementioned reports.In this context, the Court points to the WhatsApp message mentioned above to [appellant2] of
+February 10, 2020 that all showers leak.
+4.25
+The conclusion is that the court assumes that the leaks and fungal formation (in the back rooms of the first and second floor) and part of the other leaks and fungal formation fall under the exception of Article 7: 207 paragraph 2 of the Dutch Civil Code, because masterpiece for thatis liable.These do not give the right to rent reduction.For some of the leaks - from or caused by the other bathrooms than those at the rear of the second floor - [appellants] are liable for this.In principle, these defects and fungal formation are entitled to the rental price reduction
+10
+.
+The appeal of [appellants] to Article 10.3 of the General Terms and Conditions does not apply4.26 [appellants] have argued that even if there are defects that, in principle, claim the Rent Reduction Masterpiece, is not entitled to rent reduction because Article 10.3 of the rental conditions stands in the way of it.
+4.27
+The Court of Appeal will first discuss the appeal of [appellants] on Article 10.3 of the General Terms and Conditions.If that appeal succeeds, it can remain in the middle whether there is defects and, if so, whether and to what extent masterpiece is entitled to rent reduction because of those defects.The Court of Appeal is considering the following.
+4.28
+Pursuant to Article 7: 209 of the Dutch Civil Code, even if there is rent on the basis of Article 7: 230a of the Dutch Civil Code - it is not possible to deviate to the detriment of the tenant from, among other things, Article 7: 207 of the Dutch Civil Code, in which the tenant's right to rent reduction reductionand Article 7: 208 of the Dutch Civil Code, in which the lessor is obliged to compensate for the damage caused by defects, insofar as it concerns defects that the lessor had or should have known when entering into the agreement
+11
+.That is also (more or less) stipulated in Article 10.4 of the General Terms and Conditions.
+4.29
+In the procedure at the subdistrict court judge, Masterpiece et al. Realized that there were defects that [appellants] were known or could have been known at the start of the lease.Among other things, they have attached the conclusion that [appellants] cannot successfully invoke Article 10.3.On the basis of the devolutive effect of the appeal, the Court of Appeal must discuss this argument of masterpiece et al.
+4.30
+The subdistrict court judge, after having discussed the Novum Network report in 4.4, considered on the basis of this report under 4.5: "
+Furthermore, (in any case) the concrete rot, the cracking and bending masonry, defects that have been known to [appellant1] and [appellant2] from the start of the lease.The other defects are also of such a nature that they must have been present for some time.
+"
+Against the judgment of the subdistrict court judge that the defects in question were already known at the start of the rent, [appellants] argued that the subdistrict court judge did not wrongly take into account that it is a lease on the basis of Article 7: 230a of the Dutch Civil Code andThat masterpiece knew very well what she rented and explicitly accepted the state of the rented property when entering into the lease.These arguments are - whatever they are - not relevant to the question of whether [appellants] were known or could be known to the building at the start of the lease.
+4.31
+In the cited considerations, the subdistrict court judge did not mention the leakage and fungal formation.The defects mentioned by it - especially the cracking - are the cause of these defects.Because [appellants] were already announced in the event of it, it should be that the architectural defects mentioned by the subdistrict court judge were also present with the resulting leakage and the fungal formation.That had already been the case in the previous rental period.For that reason, [appellants] cannot rely on Article 10.3 of the General Terms and Conditions
+12
+.
+from February 2020 are entitled to a rental price reduction of
+€ 1,000 per month
+4.32 The subdistrict court judge is based on a rent reduction of € 1,500 per month.As the subdistrict court judge rightly considered, an estimate must be made of the price reduction that has to be proportional to the specific circumstances of the case.In addition, judicial freedom is great and the ordinary rules of obligation and burden of proof do not apply
+13
+.It is obvious that regular leakage and fungal formation considerably limited the rental enjoyment of a building used for residential purposes.In that respect, the amount determined by the subdistrict court judge is
+€ 1,500 in rental price reduction in itself reasonable and advanced.Because the Court of Appeal assumes that a substantial part of the leaks and fungal formation was caused by the clients of masterpiece himself or is at the expense of masterpiece, the Court will apply a rent reduction of € 1,000 per month.
+4.33As considered above, [appellants] were already familiar with the causes of fungal formation and the leaks when they entered into the rent (insofar as they are for their account).In view of the provisions of Article 7: 207 of the Dutch Civil Code, the right to rent reduction is created when the tenant has properly informed the landlord of the defect or of the day on which the defect was already sufficiently known to the landlord for repair workto go over.On the basis of this provision and in view of the fact that [appellants] were familiar with the cause of the defects, the right to rent reduction enters the moment that the defects manifest themselves, so when leakage and (new) fungal formation arise.
+At the start of the rent there was already leakage and fungal formation.As indicated, masterpiece that restores and justify that leakage and fungal formation would not be entitled to a rental price reduction.
+It follows from the correspondence submitted that the parties were in contact about leakage in the back room in October and November 2019.That leakage and the fungal formation present there are, as considered above, at the expense of masterpiece itself.Other leaks are not mentioned.Fungal formation in other spaces is also not discussed, so that there is no entitlement to rent reduction in October 2019.After that, parties in February 2020 (in the quoted WhatsApp messages) again have contact about leaks.The Court of Appeal will therefore have the rent reduction of € 1,000 per
+February 1, 2020
+14
+.Because of the connection between the leaks and fungal formation, the Court of Appeal assumes that there was also fungal formation in February 2020.
+Masterpiece has a rent arrears of € 18,000
+4.34 It follows from the foregoing that masterpiece is owed 12 x € 6,000 + 12 x € 5,000 = € 132,000 in rent over the total rental period.It is certain that masterpiece paid the rent until June 2020.It concerns an amount of € 96,000.Masterpiece has paid € 18,000 around the summary proceedings.On the occasion of the oral hearing at the Court, [respondent2] stated that it was agreed that the payment of this last amount of final discharge was agreed.This statement, which was contested by [appellants], has been put forward too late.For that reason, the Court of Appeal will disregard the statement.On balance, the overdue rent is € 18,000.Meesterwerk et al. Are jointly and severally liable for the payment of the rent arrears.Because there is a overdue rent from June 2020, masterpiece et al. Also owes the contractual fine of Article 23.2 of the General Terms and Conditions.[appellants] have limited the penalty amount to € 4,500.On the occasion of the oral hearing at the Court, the lawyer of [appellants] indicated on request that, in view of the liability of the fine on the overdue rental price, no legal (trade) interest is due (cf. Article 6:96 (2) of the Dutch Civil Code).The claim for reimbursement of commercial interest is therefore not assignable.
+15
+The claim of [appellants] for compensation for delivery damage is not assignable
+4.35 According to [appellants], they have suffered damage because masterpiece did not deliver the building correctly.To substantiate its claim on this point, it refers to a report from Triacon of 16 November 2020. It concerns a second report from Triacon, after Triacon had drawn up a first report in September 2020, then performed repair work by masterpiece and Triacon on 2 November2020 had done a second inspection.In that second report, Triacon has assessed "the remaining damage and the repair work".Triacon concludes that not all damage has been repaired and estimates the costs of the necessary recovery at € 45,774 including VAT.[appellants] claim payment of this amount.
+4.36
+This claim from [appellants] is not assignable.The reason for this is that it is certain that [appellants] had no repair work done.They have therefore made no costs in connection with repair work performed.According to [appellants], this is also not necessary, because this damage can be estimated abstract in that sense, that it is sufficient for damage budget that it is determined that there is damage and what the repair costs are, regardless of whether those repair costs are actually incurred.The court does not follow [appellants] in this.This court has considered in earlier judgments
+16
+:
+"If the tenant is attributable in the fulfillment of his delivery obligations (due to the non -compliance with his maintenance obligation or due to the inflicting of damage), the lessor is entitled to compensation.Unlike usual with case damage, this damage is not abstractly, but in concrete terms.The lessor must have actually incurred or incur costs to restore the delivery defects (cf. HR 3 October 2003, ECLI: NL: HR: 2003: AF9712).
+"
+This basis of the claim of [appellants] is therefore inadequate.
+4.37
+On the occasion of the oral hearing at the Court, the lawyer of [appellants] also argued that [appellants] have been able to realize a lower selling price for the property due to the delivery defects.Their damage is therefore in the difference between that lower selling price and the price they could have realized if the building had been delivered correctly.This statement has the scope that the judgment of the subdistrict court judge is annulled and the claim of [appellants] is still granted.It is therefore a (new) complaint.Grievances must be formulated in the first substantive procedural document, the statement of grievances.[appellants] could also have formulated the complaint in the statement of grievances;The facts on which the complaint was based were already known.The complaint is therefore formulated too late.Meesterwerk et al. Have not unambiguously agreed that the complaint is treated in terms of content.The Court will therefore disregard the complaint.Incidentally, [appellants] did not substantiate their position properly;They did not state what amount they have sold the property, what role the state of the property played in the negotiations and for what amount they could have selled the property if the delivery defects they have made would not have been there
+17
+.
+The other fines advanced by [appellants] are not assignable
+4.38 [appellants] are entitled to € 8,500 in contractual fines on the basis of the penalty clause of Article 29 of the General Terms and Conditions in addition to the fines discussed above.This clause stipulates that the tenant owes a fine of € 250 per day if, after being in default, he does not comply with the rules included in Article 5.1, 8, 12.1 and 24.1.
+4.39
+[appellants] have given masterpiece in the letter of 2 September 2020 mentioned in 3.9.The notice of default concerned the nuisance caused by clients of masterpiece, the use of the building by clients with a high care indication and the absence of a companion in the building and the removal of fire extinguishers and other facilities with a view to fire safety.
+4.40
+Masterpiece et al. Has, insufficiently contradicted by [appellants], argued that there were another client in the building in September 2020.That client left at the end of September/beginning of October 2020.[appellants], on whom the obligation to pay and the burden of proof are not sufficiently plausible in the light that after the notice of default was still caused by the residents of the building or that the building was inhabited by (too many) residents or by residents with aToo high care indication.
+4.41
+[appellants] have also not made it clear how the reproach that they make masterpiece with regard to the fire extinguishers and the provisions relates to the provisions in the general terms and conditions to which Article 29 of those terms and conditions have not substantiated that this reproaches this blame for the liabilityof a fine.
+18
+What does this mean for the progress of the parties in the convention and in the counterclaim?
+4.42 Meesterwerk et al. Are owed € 18,000 + € 4,500 = € 22,500 in overdue rent and fines.The deposit of € 6,000 paid by Meesterwerk will be deducted on this amount, so that € 16,500 remains.€ 940 (calculated according to the reimbursement for extrajudicial collection costs) is due on this amount.
+4.43
+This means that only part of the original claims is assignable.For that reason, the Court will compensate for the costs of the proceedings in the convention (including the costs of the seizure laid down) at the subdistrict court judge.
+4.44
+The claims of Meesterwerk et al. In the counterclaim are also only partially assignable:
+- The Court will reduce the rent from 1 February 2020 to € 5,000 per month;
+- with the claimed declaration for the right that Meesterwerk et al. No contractual fines are due, they have no interest, because the Court has already decided on the advanced fines;
+- the claim for repayment of the deposit is not assignable;The Court of Appeal has already deducted the deposit from the claim of [appellants] van Wegee the overdue rent;- In the declaration of right that masterpiece et al. The building has withheld the building in a similar state as in which it received the property, Meesterwerk et al. Also have no interest, because the Court has already rejected the claim for compensation for 'mutation damage' and already has the depositsettled;
+- Because [appellants] do not have to repay the deposit, they are also not owed extrajudicial costs due to the non -payment of the deposit.
+4.45
+In view of this, the Court of Appeal will also compensate for the costs of the proceedings in the convention at the subdistrict court judge.
+4.46
+In the proceedings at the Court of Appeal, the parties are unsuccessful in relevant parts.The Court of Appeal will therefore compensate the costs of the proceedings at the Court of Appeal.
+4.47
+In view of the foregoing, the Court will be the judgment of the subdistrict court judge of
+17 August 2021 Destroy, except for the destruction of the default judgment, and again decide as mentioned above.
+4.48
+In this state of affairs, masterpiece et al. Must pay [appellants], instead of the other way around, as the subdistrict court judge ruled.The Court of Appeal will therefore order Meesterwerk et al. To repay (with statutory interest) to [appellants] what [appellants] have paid to them on the basis of that judgment.
+5
+5. The decision
+The Council:
+the judgment confirms that the subdistrict court judge in Zwolle on August 17, 2021 pointed out between the parties insofar as the subdistrict court judge the default judgment of the parties of the parties
+December 29, 2021 has destroyed;
+Destroys the judgment that the subdistrict court judge in Zwolle on August 17, 2021 pointed out between the parties for the rest,
+And definitely as follows:
+orders masterpiece et al. jointly and severally to pay [appellants] € 16,500, plus € 940 in extrajudicial collection costs;
+reduces the rent of the building from 1 February 2020 until the end of the lease to
+€ 5,000 per month;
+orders masterpiece et al. Successly to repay to [appellants] what [appellants] have paid on the basis of the (partially) destroyed judgment of the subdistrict court judge in the convention to Meesterwerk et al., plus the statutory interest from the day of payment up to and includingthe day of the reimbursement;
+orders masterpiece to repay to [appellants] what [appellants] have paid to masterpiece on the basis of the (partially) destroyed judgment of the subdistrict court judge, plus the statutory interest from the day of payment up to and including the day of therepayment;
+explains these decisions enforceable in stock;
+compensates the costs of the procedure (in the convention and counterclaim) at the subdistrict court and at the Court in the sense that the parties each bear their own costs;
+rejects the other claims of the parties.
+This judgment was given by mrs.H. de Hek, D.H.De Witte and R. Koolhoven and was pronounced in public by the Rolraadheer on December 20, 2022 by the role councilor, in the presence of the clerk.
+1
+Because the Court of Appeal establishes the facts itself, [appellants] have no interest in separate discussion of complaint 1.
+2
+HR 28 January 1994, ECLI: NL: HR: 1994, 421.
+3
+The situation of HR September 20, 1985, NJ 1986, 260 (Zonhofje I) does not occur.
+4
+Complaint 2 fails on this point.
+5
+[Appellants] have no interest in the discussion of complaint 2, insofar as the complaint relates to these points.
+6
+Cf.for living space Article 7: 242 paragraph 1 of the Dutch Civil Code.
+7
+The complaints 2 and 3 fail to that extent.
+8
+Complaint 4 fails.
+9
+Complaint 2 fails to that extent.
+10
+Complaint 2 partly succeeds at this point.
+11
+Complaint 6 fails.
+12
+The second part of complaint 3 fails.
+13
+Cf.AG Wissink, ECLI: NL: PHR: 2017: 281.
+14
+Complaint 5 partly succeeds.
+15
+Complaint 6 partly succeeds.
+16
+Hof Arnhem-Leeuwarden 23 July 2019, ECLI: NL: GHARL: 2019: 5994 and 25 May 2021, ECLI: NL: GHARL: 2021: 5020.
+17
+Complaint 7 fails.
+18
+Complaint 8 fails.

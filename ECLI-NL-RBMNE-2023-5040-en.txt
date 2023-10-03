@@ -1,0 +1,153 @@
+ECLI: NL: RBMNE: 2023: 5040
+Share the pronunciation
+ECLI: NL: RBMNE: 2023: 5040
+Instance
+Court of Central Netherlands
+Date of judgment
+25-09-2023
+Date of publication
+27-09-2023
+Case
+C/16/558047/KG SA 23-308
+Jurisdiction
+Civil rights
+Special characteristics
+Summary proceedings
+Contents indication
+Trade name dispute between the plaintiff (older company) and the defendant (new company).Actual confusion is something other than a risk of confusion as referred to in the Trade Name Act.There is some factual confusion;It is not so much because the new company chose a name that looks a lot like that of the older company (and they do almost the same in the same place), but because the plaintiff chose a name who describes what she and the new company and any other oral care practice inVeenendaal does.The plaintiff cannot (unless there is integration, but it is not there) that only those or a similar name may use that name or a similar name.Others may also use these general descriptive words.
+Locations
+Rechtspraak.nl
+Share
+Enriched statement
+Share the pronunciation
+Pronunciation
+judgment
+Court of Central Netherlands
+Civil rights
+commercial room
+Location Utrecht
+Case number / Role number: C / 16/558047 / KG SA 23-308
+Judgment in summary proceedings of 25 September 2023
+in the case of
+[plaintiff] acting under the name [trade name]
+,, "
+living and business in [location],
+Plaintiff,
+lawyer mr. A. Hashem Jawaheri in Amsterdam,
+in return for
+1. The partnership
+[defendant sub 1]
+,, "
+established and office in [location],
+2.
+[defendant sub 2]
+,, "
+residing in [residence],
+3.
+[defendant sub 3]
+,, "
+residing in [residence],
+Defendants,
+Lawyer mr. P.A.J.M.Lodestijn in Nijmegen.
+Plaintiff is called [plaintiff] or [trade name].Defendants are separately referred to as [defendant sub 1], [defendant sub 2] and [defendant sub 3] and jointly [defendants et al.].
+1
+The procedure
+1.1.
+The course of the procedure is evident from:
+-
+The summons of July 10, 2023 with productions 1 to 4
+-
+Productions 9 to 35 received on 30 August 2023 from [trade name]
+-
+The productions 1 to 7 received from [defendants et al.
+-
+The oral treatment of 4 September 2023
+-
+The pleading memorandum of [trade name]
+-
+The pleading memorandum of [defendants et al.] With two appendices.
+1.2.
+The hearing stipulates that a judgment will be given on September 25, 2023 or as much earlier if it succeeds.
+2
+What is this case about?
+2.1.
+Since 2007 there has been a dental hygienist practice in [location] with the trade name "[trade name]".In 2017, [plaintiff] took over this practice.She continued to use the same trade name.[trade name] currently has around 800 patients.There are one dental hygienist ([plaintiff]) and one assistant, but [plaintiff] is planning to expand practice.Her practice moves from 1 October 2023 to the [address] in [location].
+2.2.
+Since 1 March 2022, [defendant sub 2] and [defendant sub 3] have been active as dentists in [location].They have taken over and merged two existing practices.They have chosen the trade name "[defendant sub 1]" for their dental practice.[defendants et al.] Currently has around 8,000 patients.There are three dentists, a dental technician, a dental hygienist and a number of (prevention) assistants.The practice is located at the [address] in [location].
+2.3.
+[plaintiff] opposes it that [defendant sub 2] and [defendant sub 3] chose a trade name that is very similar to her.According to [plaintiff] this is not allowed on the basis of the trade name law and otherwise this is unlawful.It claims in this summary proceedings that [defendants et al.] Is forbidden to use the trade name "[defendant sub 1]".
+3
+How does the preliminary relief judge judge?
+3.1.
+[trade name] is wrong.[defendants et al.] May continue to use the trade name "[defendant sub 1]".Below it is explained why.
+Susceptibility
+3.2.
+First, the preliminary relief judge must determine whether [plaintiff] is admissible in its claims, that is, whether she can set them.According to [defendants et al.], This is not the case, because the practice of [plaintiff] is no longer a sole proprietorship, but a e.g.or a B.V.In formation, while the sole proprietorship is conducting this summary proceedings.Also, according to [defendants et al.], [Plaintiff] has no urgent interest in her claims.The preliminary relief judge sees this differently.
+Proprietorship
+3.3.
+There is no indication that the sole proprietorship has already been introduced in a B.V.There is only a letter that an accountant sent to [plaintiff] on 14 August 2023, stating that a notary will draw up the deed of input within fourteen days.[plaintiff] did not know at the hearing whether that had already happened and there are no pieces that show that this deed has already been drawn up, let alone that the sole proprietorship is already in a B.V.has been introduced.That is why the preliminary relief judge assumes that [trade name] is still a sole proprietorship and not e.g.
+Urgent interest
+3.4.[plaintiff] says that [defendants et al.] Introducing her trade name law or that [defendants et al.] Acts unlawfully.In the event of a continuous infringement or continuous acting unlawful action, there is normally always an urgent interest in stopping that infringement or that unlawful act as quickly as possible.That is also true here.Although [plaintiff] did not immediately take action when she heard of the trade name of [defendants et al.] - she knew at least from on March 1, 2022 and she only has in an email of 24 at the hearingJanuary 2023 protested against this - this is insufficient reason to deviate from the principle that an alleged infringement/alleged unlawful act must be stopped as quickly as possible and to judge that [plaintiff] should only set a substantive procedure and wait for the outcome thereof.There are also no indications that [plaintiff] deliberately waited for the establishment of these summary proceedings to [defendants et al.] In invested considerably in its trade name.
+Substantive assessment
+Assessment framework
+3.5.
+Article 5 Trade Name Act provides:
+It is forbidden to carry a trade name, which, before the company was driven under that name, was already lawfully fed by another, or that only deviates from its trade name to a small extent, this insofar as it is consequently, in connection with the natureof both companies and the place where they are located, there is confusion between those companies.
+3.6.
+According to setting case law, "confusion" is meant that the public thinks that she is dealing with one company, while she has ended up in the other company (immediately a risk of confusion) or that one company has an economic relationship with the other company(indirect confusion hazard).
+3.7.
+In this case, the public consists of all potential oral care patients in [place of residence] and the surrounding area, who are on average informed, careful and attentive (De Maatman).
+3.8.
+In the Dairy Partners judgment (ECLI: NL: HR: 2021: 269), the Supreme Court ruled that words that are descriptive for the activities of a company must be able to be used by everyone (the so -called freekeeping needs).If a judge has to judge whether there is a danger of confusing, he must take into account the extent to which a trade name is descriptive.In addition, it applies:
+-
+There can only be a risk of confusion, as referred to in the Trade Name Act, if the public knows the older trade name and that links to the company that uses that name.A fully descriptive trade name has no distinctive character and will therefore not be linked to the company, so that there cannot be a risk of confusion.This is different if the fully descriptive trade name has been used intensively and the public still links that name to the company that uses this name (integration).
+-
+Nowadays descriptive trade names are used, the audience has become used to it and therefore becomes less confused with a descriptive trade name.And also that a small variation in a descriptive trade name can remove the hazard.
+Application of assessment framework
+Fully descriptive
+3.9.
+The trade name "[trade name]" is fully descriptive.This consists of a description of
+what
+[plaintiff] Doe and
+Where
+She does that: she delivers oral care in a practice in [location].The trade name of [defendants et al.] "[Defendant sub 1]" is therefore also fully descriptive.
+3.10.
+According to [trade name], the word "[word]" in the trade name is not generally descriptive, but distinctive for the practice of [trade name].In the opinion of the court, the word "[word]" is indeed descriptive insofar as it concerns companies in [location] and there [trade name] carries out its practice.The fact that [trade name] was the only entrepreneur with a oral care practice in [location] who used the place name in her trade name does not change that.If the word "[word]" would be distinctive for (only) the practice of [trade name], then no entrepreneur in [location] with a younger trade name than that of [trade name] would be the word "[word]" in thatcan use trade name.Then the word "[word]" could be monopolized by [trade name], just because she was the first to use the place name in her trade name.That would be contrary to the freedom requirement.Such a monopolization can only be justified if such a descriptive trade name has become a household name locally, which means that there is integration.
+Unavailed
+3.11.The trade name of [trade name] is not established.That the trade name “[trade name]” has been used for about 13 years and is therefore known to the approximately 800 patients of [trade name] and any former patients, is not enough to be able to determine that this trade name has been used so intensively that the public(These are all potential oral care patients in [location], see 3.7) will link this name to the practice of [trade name].For example, [defendants et al.] Already has about 8,000 patients and, according to an overview submitted by [trade name] as production 21, 13 other oral care providers in [location].Familiarity in 800 patients and any former patients is therefore very limited compared to the size of the total public.It has not been shown that the trade name "[trade name]" is more well known than among the (former) patients of [trade name].Productions submitted by [plaintiff] show that she renewed the corporate identity of the practice in 2017, that she had videos made in 2018 and that [trade name] took out a subscription in 2019 with the online platform De Nationale Zorggids, but she showsNot this that this [trade name] has produced sufficient awareness in [place of residence] to be able to speak of integration.
+No confusion hazard
+3.12.
+Because the trade name "[trade name]" is fully descriptive and it is not established, this name is not linked by the public to the practice of [trade name] and there is no confusion of a confusion as referred to in the Trade Name Act (see 3.8).That means that the trade name "[trade name]" is not protected and [trade name] cannot prohibit others, such as [defendants et al.], Use a trade name that looks a lot like that of it.
+3.13.
+[plaintiff] has submitted a number of e-mails that show that a number of its patients and suppliers have actually been mistaken between her practice and that of [defendants et al.] Takes the preliminary relief judge, indicated these e-mails, that in the dailyPractice sometimes there is factual confusion between the practices of [trade name] and [defendants et al.] That does not change the foregoing.
+3.14.
+The preliminary relief judge realizes that it can sound strange that (a) it is plausible that confusion has actually occurred a few times, while (b) is the opinion that there is no risk of confusing.However, factual confusion in some patients of the practices of [trade name] and [defendants et al.] Is something other than a danger of confusing as referred to in the Trade Name Act.This is only the case if the public (which consists of many more persons only the patients of [trade name] and [defendants et al.]) Relies the practices with each other or economically with each other because the name of [defendants et al.]That of [trade name] appears and the activities of the companies and the place where they perform them too.In this case one is not so much confused between [trade name] and [defendants et al.] Because [defendants et al.] Koos a name that looks a lot like that of [trade name] (and they do almost the same in the same place), but because [trade name] a name Koos who describes what [trade name] and [defendants et al.] And any other oral care practice in [place of residence].[trade name] may (unless there is integration, but it is not there) not to enforce that only those or a similar name may use.Others may also use these general descriptive words.
+Not unlawful
+3.15.
+If the use of the trade name "[defendant sub 1]" by [defendants et al.] Is not contrary to the trade name law, then that use is otherwise unlawful, says [trade name].The preliminary relief judge judges differently.The Supreme Court has ruled in the Dairy Partners judgment that if there is no risk of confusion, the use of a trade name that is the same or resembles a different trade name is not unlawful for that reason.
+Proceedings
+3.16.
+[trade name] is wrong and therefore has to pay the costs of the proceedings of [defendants et al.].Because this is a case about intellectual property rights (IE), [defendants et al.] Is entitled to reimbursement of the reasonable and proportional costs of proceedings that she has incurred (Article 1019h of the Dutch Code of Civil Procedure).When determining those costs, the preliminary relief judge is based on the indication rates applied by the courts in IP cases.In this case, as a starting point for the lawyer costs, the rate that belongs to just summary proceedings is taken:€ 15,000.This rate has been chosen because there is one IP basis (trade name law) and the case is actually simple, but not legally.Because [trade name] has also mentioned the unlawful act as the basis for its claims, it must be estimated what percentage of the case is about this.That part of the case will have to be reimbursed on the basis of the normal rates for the salary of the lawyer (liquidation rate).The preliminary relief judge sets the percentage of this dispute that concerns the basis of unlawful act nil.Also with this basis is the main argument that [defendants et al.] Sowing confusion by the choice of her trade name.[Defendants et al.] Has claimed an amount of € 7,457.50 in salary.That salary remains under the indicator rate and is therefore allocated.[defendants et al.] is also entitled to compensation for court fees and the disbursements (office and travel costs).The total process costs are estimated at:
+- Registry fee € 676.00
+- Travel costs 294.59
+- Office costs 118.08
+- Salary lawyer
+7,457.50
+Total € 8,546.17
+3.17.
+The follow -up costs claimed by [defendants et al.] And the statutory interest on the costs of the proceedings and follow -up costs are allocated in the way that is under "the decision".
+4
+The decision
+The preliminary relief judge
+4.1.
+rejects the progress,
+4.2.
+orders [trade name] to pay the costs of the proceedings on the part of [defendants et al.] To date estimated at € 8,546.17, plus the statutory interest as referred to in art.6: 119 of the Dutch Civil Code with effect from fourteen days after the date of this judgment until the day of full payment,
+4.3.
+orders [trade name] in the costs arising after this judgment, estimated at € 173.00 in the lawyer's salary, on the condition that [trade name] did not comply with the judgment within 14 days after notification and then service of the decisionhas taken place, with an amount of € 90.00 in the lawyer's salary and the writings of the ruling, and plus the statutory interest as referred to in art.6: 119 of the Dutch Civil Code with effect from fourteen days after the service of this judgment until the day of full payment,
+4.4.
+Declares the cost order enforceable in stock.
+This judgment was given by the preliminary relief judge mr. N.A.J.Purcell, assisted by clerk M. Braam, and pronounced in public on September 25, 2023.
+1
+1
+MB (4209)
